@@ -1,0 +1,9 @@
+body{
+    margin: 0;
+    padding: 2%;
+    background-image: radial-gradient(salmon, palevioletred);
+}
+
+.modal-title{
+    color: white !important;
+}
